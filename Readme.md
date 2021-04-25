@@ -1,4 +1,4 @@
-This project mainly deals analyse the offers provided by the starbucks mobile application 
+This project mainly deals with the analyse the offers provided by the starbucks mobile application 
 The analysis is about the number of customers looking at the offer and actually using it.
 
 With EDA I was able to conclude that 
