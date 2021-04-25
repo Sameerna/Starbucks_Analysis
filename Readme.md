@@ -1,5 +1,6 @@
-This project mainly deals with the analyse the offers provided by the starbucks mobile application 
+This project mainly deals with the analyse of the offers provided by the starbucks mobile application 
 The analysis is about the number of customers looking at the offer and actually using it.
+With python and supporting liberies I was able to acchieve the results with 92% accuracy with decission trees.  
 
 With EDA I was able to conclude that 
 
